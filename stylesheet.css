@@ -65,7 +65,7 @@ img {
   border-radius: 2%;
 }
 
-/* article & paragraph styles
+/* article, list, & paragraph styles
 main chunks of information*/
 
 article {
@@ -74,9 +74,9 @@ article {
   margin: auto;
 }
 
-p {
+p, ul, ol, li {
   font-family: poppins;
-  font-weight: 300px;
+  font-weight: 300;
   font-size: 15px;
 }
 
