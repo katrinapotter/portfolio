@@ -1,7 +1,3 @@
-/*  background, color, font-family, font-size,
- height, margin, padding, text-align
- */
-
 body {
   background-color: #d6d6d6;
 }
@@ -78,11 +74,11 @@ a:link {
   color: #b98eff;
   text-decoration: none;
 }
-a:hover {
-  color: rgb(84, 170, 141);
-}
 a:visited {
   color: #721ac5;
+}
+a:hover {
+  color: rgb(84, 170, 141);
 }
 a:active {
   color: #9181aa;
