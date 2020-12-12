@@ -76,12 +76,13 @@ article {
 
 p, ul, ol, li {
   font-family: poppins;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 15px;
 }
 
 li {
   padding: 5px;
+  font-size: 12px;
 }
 
 /* horizontal ruler style*/
