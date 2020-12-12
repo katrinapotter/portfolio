@@ -80,6 +80,10 @@ p, ul, ol, li {
   font-size: 15px;
 }
 
+li {
+  padding: 5px;
+}
+
 /* horizontal ruler style*/
 
 hr {
